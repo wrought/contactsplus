@@ -11,7 +11,7 @@ Version Info:
 
 Setup Info:
 ===========
-This version of the contacts app is only compatible with upcoming ownCloud Version 8.1 or later!
+This version of the contacts app is only compatible with upcoming ownCloud Version 8.1 or later! Also, this app is independent from the [ownCloud contacts app](https://github.com/owncloud/contacts/), as such contactsplus does not extend features of the ownCloud contacts app.
 
 
 Installation:
